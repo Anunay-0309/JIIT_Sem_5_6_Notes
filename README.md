@@ -22,7 +22,7 @@ This folder has notes from:
 - `DSA` 🧮
 - `LRI` 💬
 - `Literature` 📖
-- `DHD`, `Photovoltaics`, and more…
+- `DHD`, `Photovoltaic`, and more…
 - `ik it doesn't have all the subjects, but i hope whatever's here is helpful`
 
 ---
