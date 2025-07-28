@@ -27,10 +27,13 @@ This folder has notes from:
 
 ---
 
+> ⚠️ **Note:** If you’re unable to view the image previews (especially in the question papers) due to large file size, just download the folder to access them locally.
+
+
 ## ❗ What's Missing?
 
-- Some Sem 5 notes (if they ever existed, they’re probably dead now 💀)
-- **Question papers** – will upload before T1s (if i find the stupid folder again 🗂️)
+- Some Sem 5 notes and their question papers(if they ever existed, they’re probably dead now 💀)
+- Some T3 question papers of Sem 6 subjects
 
 ---
 
